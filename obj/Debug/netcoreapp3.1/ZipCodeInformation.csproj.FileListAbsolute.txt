@@ -1,0 +1,15 @@
+C:\Users\eduar\source\repos\ZipCodeInformation\bin\Debug\netcoreapp3.1\ZipCodeInformation.exe
+C:\Users\eduar\source\repos\ZipCodeInformation\obj\Debug\netcoreapp3.1\ZipCodeInformation.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\ZipCodeInformation\obj\Debug\netcoreapp3.1\ZipCodeInformation.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\ZipCodeInformation\obj\Debug\netcoreapp3.1\ZipCodeInformation.AssemblyInfo.cs
+C:\Users\eduar\source\repos\ZipCodeInformation\bin\Debug\netcoreapp3.1\ZipCodeInformation.deps.json
+C:\Users\eduar\source\repos\ZipCodeInformation\bin\Debug\netcoreapp3.1\ZipCodeInformation.runtimeconfig.json
+C:\Users\eduar\source\repos\ZipCodeInformation\bin\Debug\netcoreapp3.1\ZipCodeInformation.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\ZipCodeInformation\bin\Debug\netcoreapp3.1\ZipCodeInformation.dll
+C:\Users\eduar\source\repos\ZipCodeInformation\bin\Debug\netcoreapp3.1\ZipCodeInformation.pdb
+C:\Users\eduar\source\repos\ZipCodeInformation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\eduar\source\repos\ZipCodeInformation\bin\Debug\netcoreapp3.1\Refit.dll
+C:\Users\eduar\source\repos\ZipCodeInformation\obj\Debug\netcoreapp3.1\RefitStubs.g.cs
+C:\Users\eduar\source\repos\ZipCodeInformation\obj\Debug\netcoreapp3.1\ZipCodeInformation.csproj.CopyComplete
+C:\Users\eduar\source\repos\ZipCodeInformation\obj\Debug\netcoreapp3.1\ZipCodeInformation.dll
+C:\Users\eduar\source\repos\ZipCodeInformation\obj\Debug\netcoreapp3.1\ZipCodeInformation.pdb
