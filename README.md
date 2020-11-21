@@ -1,2 +1,2 @@
 # zip-code-information
-Programa simples que mostra informações do seu CEP
+Programa simples que mostra informações de um CEP
